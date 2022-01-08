@@ -3,12 +3,12 @@
 For each class, calculateAchievement works differently. 
 -	_in Academic:
 
-	   ((3 * numberOfPaper) + (2 * numberOfSymposium)) / age         
+	((3 * numberOfPaper) + (2 * numberOfSymposium)) / age         
                  // you must calculate the age of academic personal using birthYear
 
 -	_in Administrative & Erasmus:
 
-  0
+         0
 	
 -	_in Preparatory:
 
